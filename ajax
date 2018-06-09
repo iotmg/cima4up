@@ -1,0 +1,12 @@
+<script src='http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js?ver=1.4.2' type='text/javascript'/>
+<script src='http://sites.google.com/site/simoxooorg/Home/jquery.lazyload.mini.js?ver=1.5.0' type='text/javascript'/>
+<script type='text/javascript'>
+jQuery(document).ready(function($){
+if (navigator.platform == &quot;iPad&quot;) return;
+jQuery(&#39;img&#39;).lazyload({
+effect:&quot;fadeIn&quot;,
+placeholder: &quot;http://lh5.ggpht.com/_XrWO8mEpDy0/TEdXIqjrAUI/AAAAAAAAAkU/3lwqSFT8IRQ/grey.gif&quot;
+});
+});
+</script>
+
