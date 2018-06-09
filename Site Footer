@@ -1,0 +1,17 @@
+
+
+/*
+###########################
+###### Site Footer ########
+###########################
+*/
+.top-footer{background:rgba(0,0,0,0.52);padding:8px 0;box-shadow:0 2px 5px rgba(0,0,0,0.31);text-align:left;margin-top: -12px;}
+footer{margin-top:15px;background:#29173e;z-index:1;font-weight:bold;padding:0 0;box-shadow:0 -1px 1px rgba(0,0,0,0.35);position:relative}
+.top-footer ul{padding-left:15px}
+.top-footer ul > li{display:inline-block;width:40px;height:40px;border-radius:5px;background:#565656;text-align:center;font-size:19px;padding-top:10px}
+.top-footer li.facebook{background:#3b5998}
+.top-footer li.twitter{background:#55acee}
+.top-footer li.google-plus{background:#dd4b39}
+.top-footer li.youtube{background:#b00}
+
+
